@@ -16,7 +16,7 @@ Computer Science and Engineering Student.
 
 
 ## 🔗 Connect with Me
-[![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)](https://www.linkedin.com/in/manikandan306)
+[![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)](https://www.linkedin.com/in/harinis2003)
 [![Instagram Badge](https://github.com/user-attachments/assets/01fd6e71-d0bf-4a2a-a304-3991eea61ec2)](https://www.instagram.com/karna_editor_)
 
 
