@@ -35,6 +35,8 @@ Computer Science and Engineering Student.
 ![image](https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b)
 ![image](https://github.com/user-attachments/assets/1bc265bb-47ab-4cb0-b67c-253595737804)
 ![17309850317962737345198676589676](https://github.com/user-attachments/assets/8767ac52-a0f4-4693-b1a5-f042806d4c9e)
+![17309851256312523786371286791088](https://github.com/user-attachments/assets/e65728e4-2736-4b8d-839d-6143ac59c596)
+
 
 
 ## 🛠️ Workspace Specs
