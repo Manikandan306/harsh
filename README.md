@@ -34,7 +34,8 @@ Computer Science and Engineering Student.
 ![image](https://github.com/user-attachments/assets/738a9d38-d7d7-44c3-89ab-46c0e85fd64a)
 ![image](https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b)
 ![image](https://github.com/user-attachments/assets/1bc265bb-47ab-4cb0-b67c-253595737804)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Microsoft Copilot" width="100" height="100">
+![17309850317962737345198676589676](https://github.com/user-attachments/assets/8767ac52-a0f4-4693-b1a5-f042806d4c9e)
+
 
 ## 🛠️ Workspace Specs
 
