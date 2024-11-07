@@ -22,17 +22,12 @@ Computer Science and Engineering Student.
 
 ## 🌐 Languages
 ![image](https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C language" width="100" height="100">
 ![image](https://github.com/user-attachments/assets/f966f5d6-9337-4ce6-bd4c-a0e621a4ae01)
 ![image](https://github.com/user-attachments/assets/10b2848d-94be-4498-abac-af2bf50a07a8)
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan306&layout=compact&theme=dark)
-
 ## 🛠️ Tools & Technologies
 
-![image](https://github.com/user-attachments/assets/99c80640-761d-498e-b51c-31571ba0b809)
-![image](https://github.com/user-attachments/assets/d416c6b7-cd25-48f0-ad80-84261eeadef2)
 ![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
 ![image](https://github.com/user-attachments/assets/96c790c6-015a-4721-8019-f7d1a38e1469)
 ![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
