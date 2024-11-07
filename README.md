@@ -22,10 +22,8 @@ Computer Science and Engineering Student.
 
 ## 🌐 Languages
 ![image](https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a)
-![image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
 ![image](https://github.com/user-attachments/assets/f966f5d6-9337-4ce6-bd4c-a0e621a4ae01)
 ![image](https://github.com/user-attachments/assets/10b2848d-94be-4498-abac-af2bf50a07a8)
-![image](https://github.com/user-attachments/assets/3bad1a33-5e84-497d-8d5e-b070fc57a33f)
 
 ### Most Used Languages
 
