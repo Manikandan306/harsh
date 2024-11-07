@@ -39,15 +39,11 @@ Computer Science and Engineering Student.
 ## 🛠️ Workspace Specs
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandan306&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harinishanmugasundharam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
-### LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/manikandan306?ext=contest&theme=dark)](https://leetcode.com/manikandan306)
+### GitHub Activity
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=harinishanmugasundharam&theme=dark)
 
 
 ### GitHub Activity
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Manikandan306&theme=dark)
-
-
-### GitHub Activity
-[![Manikandan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manikandan306&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harinishanmugasundharam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
