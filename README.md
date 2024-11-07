@@ -12,7 +12,7 @@ Computer Science and Engineering Student.
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harinishanmugasundharam?tab=repositories)
 
 - 📧 How to Reach me :
-<br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikandan.sec21@gmail.com)
+<br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinishanmugasundharam003@gmail.com)
 
 
 ## 🔗 Connect with Me
