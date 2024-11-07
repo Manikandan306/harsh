@@ -23,20 +23,18 @@ Computer Science and Engineering Student.
 ## 🌐 Languages
 ![image](https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C language" width="100" height="100">
-[image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
+![image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
 ![image](https://github.com/user-attachments/assets/f966f5d6-9337-4ce6-bd4c-a0e621a4ae01)
 ![image](https://github.com/user-attachments/assets/10b2848d-94be-4498-abac-af2bf50a07a8)
 
 ## 🛠️ Tools & Technologies
 
 ![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
-![image](https://github.com/user-attachments/assets/96c790c6-015a-4721-8019-f7d1a38e1469)
 ![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
 ![image](https://github.com/user-attachments/assets/738a9d38-d7d7-44c3-89ab-46c0e85fd64a)
 ![image](https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b)
 ![image](https://github.com/user-attachments/assets/1bc265bb-47ab-4cb0-b67c-253595737804)
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Microsoft Copilot" width="100" height="100">
 
 ## 🛠️ Workspace Specs
 
